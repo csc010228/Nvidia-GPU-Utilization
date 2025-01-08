@@ -12,8 +12,8 @@ A Python tool for monitoring NVIDIA GPU utilization and visualizing the results.
 1.   Clone the repository:
 
      ```bash
-     git clone <repository-url>
-     cd <repository-folder>
+     git clone https://github.com/csc010228/Nvidia-GPU-Utilization.git
+     cd Nvidia-GPU-Utilization
      ```
 
 2.   Ensure Python 3.6+ is installed on your system.
