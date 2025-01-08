@@ -69,3 +69,9 @@ python main.py --help
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
+## References
+
+> https://pypi.org/project/nvidia-ml-py/
