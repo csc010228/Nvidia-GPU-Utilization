@@ -1,0 +1,66 @@
+# 忽略操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 忽略 Python 编译文件
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 忽略环境配置文件
+.env
+.venv/
+env/
+venv/
+
+# 忽略日志文件
+*.log
+*.out
+*.err
+
+# 忽略数据库文件
+*.sqlite
+*.db
+
+# 忽略单元测试覆盖率报告
+.coverage
+htmlcov/
+*.cover
+*.coverage.*
+
+# 忽略 Jupyter Notebook 检查点
+.ipynb_checkpoints/
+
+# 忽略 IDE 文件
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 忽略 node.js 文件
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 忽略静态分析工具文件
+.mypy_cache/
+.pytest_cache/
+.coverage
+.cache/
+.tox/
+*.pylintd
+
+# 忽略构建目录和生成文件
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# 忽略图像、视频等大文件临时目录
+*.tmp
+*.temp
+*.swp
+*.bak
