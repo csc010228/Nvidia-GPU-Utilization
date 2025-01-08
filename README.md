@@ -56,6 +56,11 @@ The tool supports two main commands: `start` and `show`
      python main.py show -i utilization.csv -o utilization_plot.png -f
      ```
 
+     The output png file looks like:
+     <img src="./samples/test GPU 0 NVIDIA RTX A6000 gpu utilization.png" alt="sample-output"/>
+
+     <img src="./samples/test GPU 0 NVIDIA RTX A6000 memory utilization.png" alt="sample-output"/>
+
 **Help**
 
 To view detailed help for the commands:
